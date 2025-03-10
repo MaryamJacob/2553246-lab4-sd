@@ -1,1 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+section {
+    margin-top: 20px;
+}
 
